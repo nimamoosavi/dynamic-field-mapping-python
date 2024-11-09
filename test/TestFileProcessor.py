@@ -16,7 +16,3 @@ class TestFileProcessor(unittest.TestCase):
 
         expected_result = '{"payload": {"Profile": {"firstname": "John", "lastname": "Doe"}}}'
         self.assertEqual(result, expected_result)
-
-
-if __name__ == '__main__':
-    unittest.main()
