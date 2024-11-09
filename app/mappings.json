@@ -1,0 +1,22 @@
+{
+  "SystemA": {
+    "FirstName": "firstname",
+    "LastName": "lastname",
+    "CustomerId": "customerId",
+    "status": "status",
+    "addressLine": "address.addressLine",
+    "City": "address.city",
+    "Province": "address.province",
+    "PostalCode": "address.postalCode"
+  },
+  "SystemB": {
+    "CustomerId": "customerId",
+    "FirstName": "firstname",
+    "status": "status",
+    "LastName": "lastname",
+    "addressLine": "address.addressLine",
+    "City": "address.city",
+    "Province": "address.province",
+    "PostalCode": "address.postalCode"
+  }
+}
